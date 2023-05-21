@@ -79,3 +79,7 @@ fabric.properties
 .idea
 
 target
+
+# vscode
+
+.vscode
