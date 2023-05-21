@@ -1,7 +1,8 @@
-package org.fuyiatlas.map.core.vector;
+package org.fuyi_atlas.map.core.vector;
 
 import com.google.common.base.Stopwatch;
 import org.geoserver.wms.vector.Pipeline;
+import org.geoserver.wms.vector.VectorTileBuilder;
 import org.geotools.data.simple.SimpleFeatureIterator;
 import org.locationtech.jts.geom.Geometry;
 import org.opengis.feature.Attribute;

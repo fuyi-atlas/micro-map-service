@@ -1,4 +1,4 @@
-package org.fuyiatlas.map.core.vector;
+package org.fuyi_atlas.map.core.vector;
 
 import com.google.common.collect.ImmutableSet;
 import org.geoserver.wms.vector.VectorTileBuilderFactory;

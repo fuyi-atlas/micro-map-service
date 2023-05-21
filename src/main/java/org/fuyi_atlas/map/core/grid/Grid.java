@@ -1,4 +1,4 @@
-package org.fuyiatlas.map.core.grid;
+package org.fuyi_atlas.map.core.grid;
 
 import java.io.Serializable;
 import java.util.Objects;

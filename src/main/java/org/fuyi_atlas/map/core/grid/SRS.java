@@ -1,6 +1,6 @@
-package org.fuyiatlas.map.core.grid;
+package org.fuyi_atlas.map.core.grid;
 
-import org.fuyiatlas.map.core.GeoWebCacheException;
+import org.fuyi_atlas.map.core.GeoWebCacheException;
 
 import java.io.Serializable;
 import java.util.*;

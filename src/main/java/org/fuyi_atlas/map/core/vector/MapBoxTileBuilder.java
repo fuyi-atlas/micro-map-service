@@ -1,4 +1,4 @@
-package org.fuyiatlas.map.core.vector;
+package org.fuyi_atlas.map.core.vector;
 
 import no.ecc.vectortile.VectorTileEncoder;
 import no.ecc.vectortile.VectorTileEncoderNoClip;

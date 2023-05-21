@@ -1,4 +1,4 @@
-package org.fuyiatlas.map.core.grid;
+package org.fuyi_atlas.map.core.grid;
 
 import org.geotools.util.logging.Logging;
 import org.springframework.util.Assert;

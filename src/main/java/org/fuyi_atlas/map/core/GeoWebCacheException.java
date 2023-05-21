@@ -1,4 +1,4 @@
-package org.fuyiatlas.map.core;
+package org.fuyi_atlas.map.core;
 
 /**
  * @author: <a href="mailto:thread.zhou@gmail.com">Fuyi</a>
